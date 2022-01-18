@@ -6,5 +6,5 @@ NOTE: WEAPON_REVOLVER (not including)
 
 Features (For all weapons):
 
-   • No head damage
+   • No head damage<br>
    • Body damage adjusted
